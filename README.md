@@ -1,2 +1,2 @@
 # Solar-Energy-forecast-with-LSTM
-Work presented for the discipline of RP2 in University of São Paulo where we train LSTM neural networks to predict solar energy
+Trabalho apresentado para a disciplina de resolução de problemas 2 em que redes do tipo LSTM são treinadas para previsão de energia solar.
